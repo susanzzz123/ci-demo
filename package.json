@@ -1,6 +1,6 @@
 {
   "name": "@susanzzz123/ci-demo",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A demo application used to demonstrate CI for cis188",
   "main": "index.js",
   "scripts": {
